@@ -1,6 +1,6 @@
 # 👨‍🔬 Roberto Filgueiras
 
-🌱 Researcher in remote sensing, evapotranspiration, and precision agriculture  
+🌱 Researcher in remote sensing, evapotranspiration, agricultural monitoring, machine learning 
 📍 Belo Horizonte, MG, Brazil  
 🔗 [www.filgueirasr.com.br](https://www.filgueirasr.com.br)
 
